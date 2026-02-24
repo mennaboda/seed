@@ -55,7 +55,7 @@ Simply open the [SeedUp Colab Notebook](https://colab.research.google.com/github
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/codercyco/SeedUp.git](https://github.com/mennaboda/seed.git)
+   git clone https://github.com/mennaboda/seed.git
    cd SeedUp
    ```
 
